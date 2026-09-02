@@ -20,23 +20,13 @@ Master's student at the Faculty of Computer Science and Information Technologies
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,typst,lua&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=go,python,typst&theme=dark" alt="languages" />
 </p>
 
 **Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=neovim,git,linux,vscode&theme=dark" alt="tools" />
-</p>
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mizerael&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizerael&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -50,5 +40,3 @@ Wrapping up coursework, tinkering with Go TUI projects, and learning more about 
 ## Connect
 
 - Telegram: [@DaniilKoveshnikov](https://t.me/DaniilKoveshnikov)
-
-<sub><sup>made with care in Saratov</sup></sub>
