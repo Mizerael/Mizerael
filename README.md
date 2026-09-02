@@ -1,87 +1,54 @@
-<!--
-       ／l、
-     （ﾟ､ ｡ ７
-       l、 ~ヽ
-       じしf_,)ノ
+# Daniil Koveshnikov
 
-   (A little ASCII cat for a playful anime vibe!)
--->
+`MSc student at SSU • Backend & systems tooling • Go / Python`
 
-# Hi, I'm Mizerael!
-
-Welcome to my little playground on GitHub. Here you’ll find a mix of code experiments, course projects, and a few attempts at making my workflow just a bit more magical.
+<p>
+  <a href="https://t.me/DaniilKoveshnikov"><img src="https://img.shields.io/badge/Telegram-2cb7ee?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/Mizerael"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## My Toolbox
+## About
 
-• Python  
-Automating tasks, tackling mathematical problems, and more  
-(see: [cv_ssu](https://github.com/Mizerael/cv_ssu), [isat](https://github.com/Mizerael/isat))
-
-• Typst  
-Typesetting magic and document wizardry  
-(see: [p-adic_ssu](https://github.com/Mizerael/p-adic_ssu))
-
-• Go  
-Speedy programs and robust course projects  
-(see: [ssmt_ssu](https://github.com/Mizerael/ssmt_ssu))
-
-• Shell & Automation  
-Dotfiles, scripts, and a highly customized environment  
-(see: [dotfiles](https://github.com/Mizerael/dotfiles))
-
-• Lua  
-Neovim configuration and workflow customization  
-(see: [dotfiles](https://github.com/Mizerael/dotfiles))
-
-• CSS  
-Styling and making things look just right  
-(see: [dotfiles](https://github.com/Mizerael/dotfiles))
-
-Always experimenting, always learning—my repo list is my playground.
+Master's student at the Faculty of Computer Science and Information Technologies, Saratov State University. I build backend services, TUI tools, and systems-level experiments — mostly in Go and Python, with a growing interest in Zig and C++.
 
 ---
 
-## Projects I Like
+## Tech Stack
 
-- **[p-adic_ssu](https://github.com/Mizerael/p-adic_ssu):** Exploring the Typst typesetting universe  
-- **[ssmt_ssu](https://github.com/Mizerael/ssmt_ssu):** Go-powered course project for solving mathematical problems  
-- **[isat](https://github.com/Mizerael/isat):** Project for the courses "Software Tools for Solving Mathematical Problems" and "Intelligent Systems and Technologies" at SSU  
-- **[dotfiles](https://github.com/Mizerael/dotfiles):** Where my environment gets its personality  
+**Languages**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,typst,lua&theme=dark" alt="languages" />
+</p>
 
-## Education
+**Tools**
 
-I'm currently a master's student at the Faculty of Computer Science and Information Technologies, Saratov State University (SSU).  
-And yes, I'm a little bit lazy.
-
----
-
-## About Me
-
-I’m always up for a new challenge—whether that’s learning a language, customizing my editor, or automating something that should have been automated yesterday.
-
-<!--
-       ／l、
-     （ﾟ､ ｡ ７
-       l、 ~ヽ
-       じしf_,)ノ
-
-   (A little ASCII cat for a playful anime vibe!)
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=neovim,git,linux,vscode&theme=dark" alt="tools" />
+</p>
 
 ---
 
-## Want to Connect?
+## GitHub Stats
 
-You can find me here on GitHub. For now, this is my main place for code and experiments.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mizerael&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizerael&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## Currently
+
+Wrapping up coursework, tinkering with Go TUI projects, and learning more about systems programming in Zig.
+
+---
+
+## Connect
 
 - Telegram: [@DaniilKoveshnikov](https://t.me/DaniilKoveshnikov)
-- Curious about my setup? → [dotfiles](https://github.com/Mizerael/dotfiles)  
-- Want to see what I'm learning? → [course projects](https://github.com/Mizerael?tab=repositories)  
 
----
-
-<sub><sup>✨ This README was generated with a little help from GitHub Copilot. ✨</sup></sub>
+<sub><sup>made with care in Saratov</sup></sub>
